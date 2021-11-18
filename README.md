@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img alt="Github" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin)
-[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](twitter)
+[<img alt="Github" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/namhhitvn/)
+[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/namhhitvn)
 
 ### Languages and Tools:
 
