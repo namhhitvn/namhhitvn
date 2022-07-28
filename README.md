@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on 404
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...
 
 ### Connect with me:
