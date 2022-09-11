@@ -2,7 +2,7 @@
 [twitter]: https://twitter.com/namhhitvn
 [github]: https://github.com/namhhitvn
 
-### Hi there, I'm Nam - aka Axe Hoang 👋
+### Hi there, I'm Nam - aka Nyx Hoang 👋
 
 - 🔭 I’m currently working on 404
 - 🌱 I’m currently learning everything 🤣
