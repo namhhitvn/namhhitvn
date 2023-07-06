@@ -2,10 +2,10 @@
 [twitter]: https://twitter.com/namhhitvn
 [github]: https://github.com/namhhitvn
 
-### Hi there, I'm Nam Hoang - aka Nyx 👋
+### Hi there, I'm Nam Hoang 👋
 
 - 🔭 I’m currently working on 404
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...
 
